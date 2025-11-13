@@ -1,0 +1,11 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "messages": "./messages.py:messages"
+  },
+  "env": "./.env",
+  "python_version": "3.11",
+  "dependencies": [
+    "."
+  ]
+}
